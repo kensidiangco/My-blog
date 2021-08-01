@@ -1,0 +1,21 @@
+body {
+	margin: 2rem;
+}
+#sidebar {
+	float: right;
+	color: #FAFAFA;
+	background: #AAA;
+	padding: 1rem;
+}
+#sidebar a {
+	color: white;
+}
+a {
+	color: tomato;
+	text-decoration: underline;
+}
+.date {
+	font-size: small;
+	font-style: italic;
+	color: gray;
+}
